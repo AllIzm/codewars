@@ -11,3 +11,7 @@ function findMultiples(integer, limit) {
   return arr;
 }
 
+// 8 kyu MakeUpperCase
+function makeUpperCase(str) {
+  return str.toUpperCase();
+}
